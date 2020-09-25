@@ -1,0 +1,25 @@
+{
+  "title": "Brian Ketelsen",
+  "url": "https://brianketelsen.com",
+  "domain": "brianketelsen.com",
+  "description": "Brian Ketelsen",
+  "genre": "Insert a schema.org genre",
+  "googleAnalyticsId": "UA-46945124-1",
+  "feed": {
+    "subtitle": "Brian Ketelsen - Blog",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://brianketelsen.com"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://brianketelsen.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Brian Ketelsen",
+    "twitterHandle": "bketelsen"
+  },
+  "publisher": {
+    "name": "Brian Ketelsen"
+  }
+}
