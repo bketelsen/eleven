@@ -8,3 +8,9 @@ eleventyNavigation:
 ---
 
 I code and stuff.
+
+Find me online:
+
+* [YouTube](https://youtube.com/bketelsen)
+* [Twitch](https://twitch.tv/bketelsen)
+* [Twitter](https://twitter.com/bketelsen)
