@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /lpt/
+eleventyNavigation:
+  key: LPT
+  order: 5
+---
+
+<h1>LPT</h1>
+
+{% set postslist = collections.lpt%}
+{% include "postslist.njk" %}
